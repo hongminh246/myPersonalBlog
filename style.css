@@ -1,0 +1,107 @@
+body {
+    background-color: paleturquoise;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.sub {
+    font-size: 30px;
+}
+
+.para {
+    font-size: 20px;
+}
+
+nav {
+    background-color: teal;
+    margin: -0.5%;
+    text-align: center;
+    padding: 1%;
+    display: block;
+}
+
+.menu {
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background-color: mediumturquoise;
+    margin: 0.5% 1.2%;
+    padding: 1% 0%;
+    border-radius: 50px;
+    width: 17%;
+    display: inline-block;
+}
+
+.menu:hover {
+    color: black;
+}
+
+footer {
+    display: block;
+    background-color: teal;
+    margin: 0% -0.5% -0.5% -0.5%;
+    color: white;
+    padding: 1px;
+    clear: both;
+}
+
+.end {
+    font-size: 25px;
+    color: white;
+}
+
+.link {
+    font-size: 30px;
+}
+
+li {
+    font-size: 20px;
+}
+
+.cap {
+    font-size: 25px;
+}
+
+.gal {
+    width: 40%;
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: red;
+    margin: 2%;
+}
+
+.image {
+    width: 49%;
+}
+
+.paraDiv {
+    display: inline;
+}
+
+#VNimage {
+    width: 30%;
+    float: left;
+    margin-right: 5px;
+}
+
+#Legoimage {
+    width: 30%;
+    float: right;
+}
+
+#Legoimage2 {
+    width: 30%;
+    float: left;
+    margin-right: 5px;
+}
+
+#Legoimage3 {
+    width: 30%;
+    float: left;
+    margin-right: 32px;
+}
